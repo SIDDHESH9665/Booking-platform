@@ -13,7 +13,7 @@ This project is a responsive booking website frontend built with React. The appl
 ## Technologies Used
 
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Styling**: CSS
+- **Styling**: CSS, Bootstrap (or any other styling framework/library used)
 - **Icons/Images**: Any icons or images used in the design
 
 ## Installation
@@ -29,4 +29,4 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SIDDHESH9665/Booking-platform.git
-   cd booking-website
+   cd Booking-platform
