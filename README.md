@@ -1,4 +1,4 @@
-# Booking Website
+# Hotel Booking Website and Recomandation Platform 
 
 ## Overview
 
@@ -13,8 +13,8 @@ This project is a responsive booking website frontend built with React. The appl
 ## Technologies Used
 
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Styling**: CSS, Bootstrap (or any other styling framework/library used)
-- **Icons/Images**: Any icons or images used in the design
+- **Styling**: CSS
+- **Icons/Images**:google icons
 
 ## Installation
 
